@@ -2,3 +2,5 @@
 This project involves the idea of detecting text in an image.
 The project will involve the following parts:
 1. Line Segmentation
+2. Image Recognition
+3. Machine Learning
